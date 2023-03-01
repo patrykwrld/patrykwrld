@@ -1,4 +1,4 @@
-### Information inhaled up-to-date Statistics
+# browsing history
 <a href="https://app.daily.dev/patrykwrld"><img src="https://api.daily.dev/devcards/995b6d47d68f4eebabeab99e07c86624.png?r=ol0" width="400" alt="patryk's Dev Card"/></a>
 <!--
 **patrykwrld/patrykwrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
